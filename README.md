@@ -1,18 +1,18 @@
-# 💰 BOT QUẢN LÝ TÀI CHÍI CH\xcdNH - DISCORD
+# 💰 BOT QUẢN LÝ TÀI CHÍNH - DISCORD
 
-**BOT QUẢN LÝ TÀI CHÍI CH\xcdNH** là một chatbot hoạt động trên Discord, giúp bạn theo dõi thu chi cá nhân, đặt mục tiêu tiết kiệm và nhận thông tin tài chíi ch\xednh theo cách trực quan nhất, ngay trong khi bạn đang chat với bạn bè.
+**BOT QUẢN LÝ TÀI CHÍNH** là một chatbot hoạt động trên Discord, giúp bạn theo dõi thu chi cá nhân, đặt mục tiêu tiết kiệm và nhận thông tin tài chính theo cách trực quan nhất, ngay trong khi bạn đang chat với bạn bè.
 
-> 🧑‍💻 Dev: **Phan Thành Danh**
+> 👨‍💻 Dev: **Phan Thành Danh**
 > 🔧 Viết bằng: Python 3 + SQLite
-> 🪧 Tích hợp trực tiếp với Discord App
+> 🪙 Tích hợp trực tiếp với Discord App
 
 ---
 
 ## ✨ TÍNH NĂNG
 
-* ✅ Quản lý **thu nhập** và **chi tiêu** theo thông tin tự nhập
-* 📊 Đặt **mục tiêu tiết kiệm**, theo dõi tiến độ
-* 🗒 Xem **lịch sử giao dịch** theo ngày
+* ✅ Quản lý **thu nhập** và **chi tiêu** dễ dàng
+* 📈 Đặt **mục tiêu tiết kiệm**, theo dõi tiến độ
+* 📆 Xem **lịch sử giao dịch** theo ngày
 * 📊 Thống kê **thu/chi theo tuần & tháng**
 * 🔍 Hiển thị số dư hiện tại + % đạt được mục tiêu
 
@@ -63,14 +63,14 @@ Hoặc click chuột vào file `bot.bat`
 
 ---
 
-## 📂 CƠ Cấu THƯ MỤC
+## 🗂 CẤU TRÚC THƯ MỤC
 
 ```
 📁 Bot_TaiChinh/
-├── bot.py           # Code chí├── bot.py           # Code ch\xednh
+├── bot.py           # Code chính
 ├── bot.bat          # File khởi động nhanh Windows
 ├── finance_bot.db   # CSDL SQLite
-├── README.md        # File này nè
+├── README.md        # File mô tả
 ```
 
 ---
@@ -78,9 +78,9 @@ Hoặc click chuột vào file `bot.bat`
 ## 🙋‍♂️ TÁC GIẢ & BẢN QUYỀN
 
 **Dev:** Phan Thành Danh
-✨ Mong muốn giúc bạn trẻ Việt quản lý tài chíi ch\xednh dễ hiểu nhất
-✉️ Email: *[phanthanhdanh7108@gmail.com](phanthanhdanh7108@gmail.com)*
+✨ Mong muốn giúp bạn trẻ Việt quản lý tài chính dễ hiểu nhất
+📫 Email: *[phanthanhdanh7108@gmail.com](mailto:phanthanhdanh7108@gmail.com)*
 
 ---
 
-> ✨ *Số tiền là vô hồn. Biết quản lýn l\xfd mới lài l\xe0 triệu phúu ph\xfac.*
+> ✨ *Số tiền là vô hồn. Biết quản lý mới là triệu phúc.*

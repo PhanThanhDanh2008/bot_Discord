@@ -79,7 +79,7 @@ Hoặc click chuột vào file `bot.bat`
 
 **Dev:** Phan Thành Danh
 ✨ Mong muốn giúc bạn trẻ Việt quản lý tài chíi ch\xednh dễ hiểu nhất
-✉️ Email: *[youremail@example.com](phanthanhdanh7108@gmail.com)*
+✉️ Email: *[phanthanhdanh7108@gmail.com](phanthanhdanh7108@gmail.com)*
 
 ---
 
